@@ -1,5 +1,5 @@
 Need to install Discord.js in the same Folder as the Hexxen_bot files with the following command
-npm install discord.js
+`npm install discord.js`
 
 Need to create a Bot in the Discord developer Portal.
 https://discord.com/developers/applications
@@ -16,5 +16,5 @@ Die Discord.js Docu ist sehr gut, benutzt sie!
 https://discord.js.org/docs/packages/discord.js/14.14.1
 
 To run the bot open a command terminal in the folder and use the command
-node src\index.js
+`node src\index.js`
 if you use visual studio code you can use that terminal too.
