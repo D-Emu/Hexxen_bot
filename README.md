@@ -11,3 +11,6 @@ Copy the generated URL to add the Bot to your Discor Server.
 
 in case of more questions you can use this tutorial, it's the one i used.
 https://www.youtube.com/watch?v=KZ3tIGHU314&t=1024s
+
+Die Discord.js Docu ist sehr gut, benutzt sie!
+https://discord.js.org/docs/packages/discord.js/14.14.1
